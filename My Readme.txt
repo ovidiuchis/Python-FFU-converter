@@ -1,0 +1,1 @@
+Pentru instalat Win10 IOT pe Pi2 fara Insider Preview
